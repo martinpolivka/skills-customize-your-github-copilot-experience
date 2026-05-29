@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-testing-debugging-lab",
+      "title": "Python Testing and Debugging Lab",
+      "description": "Write unit tests with unittest, debug failing code, and refactor functions for reliability without external packages.",
+      "path": "assignments/python-testing-debugging-lab",
+      "dueDate": "2026-06-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Unit Tests",
+          "file": "test_starter.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
