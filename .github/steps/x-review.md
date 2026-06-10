@@ -11,6 +11,10 @@ Here's a recap of your accomplishments:
 - Created an agent skill for automating homework assignment creation
 - Configured custom agents for specialized workflows
 
+### Final workshop handoff
+
+Open a pull request from your `participant/<your-name>` branch in your fork to the `main` branch of the original `martinpolivka` repository. Do not merge the pull request yourself. The workshop instructor will review and approve it.
+
 ---
 
 ### Navigation

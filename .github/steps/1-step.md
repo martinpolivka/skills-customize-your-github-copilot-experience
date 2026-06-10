@@ -29,22 +29,22 @@ See the [GitHub Docs: Repository Custom Instructions](https://docs.github.com/en
 
 To work with custom instructions, let's first set up our development environment and explore the project structure.
 
-1. Clone this repository to your machine.
+1. Fork this repository to your own GitHub account.
 
-   [![Clone in VS Code](https://img.shields.io/badge/Clone%20in-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/martinpolivka/skills-customize-your-github-copilot-experience.git)
+   Do not create branches or commit directly in the original `martinpolivka` repository. All workshop changes should be made in a branch in your fork, then submitted back with a pull request.
 
-   Or use the terminal:
+1. Clone your fork to your machine.
 
    ```bash
-   # Clone the prepared workshop repository and enter its folder.
-   git clone https://github.com/martinpolivka/skills-customize-your-github-copilot-experience.git
+   # Clone your fork of the prepared workshop repository and enter its folder.
+   git clone https://github.com/<your-github-username>/skills-customize-your-github-copilot-experience.git
    cd skills-customize-your-github-copilot-experience
    ```
 
 1. Open the cloned repository in VS Code and wait for all extensions to install.
    - Ensure the **Live Preview** extension is activated.
 
-1. Before making changes, create your own participant branch.
+1. Before making changes, create your own participant branch in your fork.
 
    ```bash
    # Create a participant branch for your lab work.
@@ -112,13 +112,13 @@ Now that you've explored the project, let's create custom instructions to help C
 
    <img width="504" height="183" alt="Copilot response showing custom instructions reference" src="../images/copilot-custom-instructions-reference.png" />
 
-1. Commit the `.github/copilot-instructions.md` file to your `participant/<your-name>` branch and push it to GitHub.
+1. Commit the `.github/copilot-instructions.md` file to your `participant/<your-name>` branch and push it to your fork.
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
 - The `.github/copilot-instructions.md` file should be at the root of the `.github` folder
-- Make sure you committed and pushed the changes.
+- Make sure you committed and pushed the changes to your fork.
 
 </details>
 
