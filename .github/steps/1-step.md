@@ -29,15 +29,11 @@ See the [GitHub Docs: Repository Custom Instructions](https://docs.github.com/en
 
 To work with custom instructions, let's first set up our development environment and explore the project structure.
 
-1. Clone this repository to your machine.
-
-   [![Clone in VS Code](https://img.shields.io/badge/Clone%20in-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/martinpolivka/skills-customize-your-github-copilot-experience.git)
-
-   Or use the terminal:
+1. Fork this repository to your own GitHub account, then clone your fork to your machine.
 
    ```bash
-   # Clone the prepared workshop repository and enter its folder.
-   git clone https://github.com/martinpolivka/skills-customize-your-github-copilot-experience.git
+   # Clone your fork of this prepared workshop repository and enter its folder.
+   git clone https://github.com/<your-github-username>/skills-customize-your-github-copilot-experience.git
    cd skills-customize-your-github-copilot-experience
    ```
 
